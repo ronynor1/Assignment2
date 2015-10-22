@@ -1,0 +1,72 @@
+p
+{
+  font-size: 26px;
+}
+
+.im1
+{
+  display:block;
+  margin-top:10px;
+  margin-left:50px;
+  margin-right:auto;
+  width:200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:link, a:visited {
+    display: block;
+    font-weight: bold;
+    color: #000000;
+    width: 120px;
+    text-align: center;
+    padding: 40px;
+	text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    color: blue;
+}
+
+.leftDiv{
+    border-right: 1px solid #000000;
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+
+hr{
+	border: 0;
+    border-top: 1px solid #000000;
+	margin: 0;
+	padding: 0;
+}
+
+.centerDiv{
+	border-right: 1px solid #000000;
+	width: 80%;
+	height: 100%;
+	text-align: center;
+}
+
+.allDiv{
+	height: 560px;
+}
+
+.pierre1{
+padding:10px !important;
+margin-left: 100px; 
+}
+
+.pierre2{
+margin:0;
+padding-top: 100px;
+font-size: 30px;
+}
+
+
